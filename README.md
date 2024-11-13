@@ -18,7 +18,7 @@
 
     Menambahkan file tertentu ke dalam index.
 
-- > gid add .
+- > git add .
 
     Menambahkan semua file ke dalam index.
 
